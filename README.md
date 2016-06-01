@@ -1,7 +1,7 @@
 AngularJS Assignmnet
 
 
-author: [Shivendra Singh]
+author: [new Shivendra Singh]
 
 This folder contains :
 1)main.css
