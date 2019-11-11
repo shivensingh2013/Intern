@@ -1,6 +1,6 @@
-__AngularJS Assignment__
+# AngularJS Assignment
 
-__Description - This is a basic angular JS coding which I did during my college to understand the Front End development part of a website__
+## Description - This is a basic angular JS coding which I did during my college to understand the Front End development part of a website
 
 
 author: [Shivendra Singh]
